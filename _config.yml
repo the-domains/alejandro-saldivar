@@ -1,16 +1,16 @@
-typography_spectrum: 0.31181342573836446
+layout_spectrum: 0.9816549667157233
+typography_spectrum: 0.16781172272749245
 color:
-  brandStrength: 0.10603186069056392
-  lightness: 0.5915344231761992
-  saturation: 0.17473038425669074
-  rhythmicContrast: 0.5156787848100066
+  brandStrength: 0.7203625678084791
+  lightness: 0.995839013485238
+  saturation: 0.09151700604707003
+  rhythmicContrast: 0.14443307113833725
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.40435046213679016
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 name: Alejandro Saldivar
 navigation:
   - name: Mi página
